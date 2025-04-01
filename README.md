@@ -3,7 +3,7 @@
 💫 About Me:
 Currently learning on the Modern Technologies for Web Dev.
 
-- 🌱 I’m currently learning In-depth Web development & DSA
+- 🌱 I’m currently learning In-depth Web development.
 
 - 👨‍💻 All of my experience is here [www.linkedin.com/in/arnab7439]
 
