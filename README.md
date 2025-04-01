@@ -1,4 +1,5 @@
-Hi 👋, I'm Arnab Sarkar
+**Hi 👋, I'm Arnab Sarkar**
+
 💫 About Me:
 Currently learning on the Modern Technologies for Web Dev.
 
